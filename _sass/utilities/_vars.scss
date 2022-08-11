@@ -1,0 +1,44 @@
+:root {
+  // COLORS
+  --clr-primary: #fcfffc;
+  --clr-secondary: #1b1b1e;
+
+  --clr-accent: #0353a4;
+
+  --clr-tbl-accent: #f3f3f3;
+
+  --bg-gradient: linear-gradient(
+    0deg,
+    rgba(252, 255, 252, 0) 0%,
+    rgba(252, 255, 252, 1) 50%,
+    rgba(252, 255, 252, 1) 100%
+  );
+
+  // FONT FAMILIES
+  --ff-primary: "Inter", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+  --ff-mono: "Consolas", "Menlo", "Courier New", monospace;
+
+  // FONT WEIGHTS
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  // FONT STYLES
+  --fs-italic: italic;
+
+  // FONT SIZES
+  --fs-base: 18px; // Base font size for the document
+
+  --fs-900: 3.052rem; // 54.936px
+  --fs-800: 2.441rem; // 43.938px
+  --fs-700: 1.953rem; // 35.154px
+  --fs-600: 1.563rem; // 28.134px
+  --fs-500: 1.25rem; // 22.5px
+  --fs-400: 1rem; // 18px
+  --fs-300: 0.8rem; // 14.4px
+
+  // SIZES
+  --size-90: 1rem; // 18px
+  --size-100: 1.33rem; // 24px
+  --size-200: 1.78rem; // 32px
+  --size-300: 3.56rem; // 64px
+}

@@ -1,0 +1,74 @@
+---
+layout: base
+title: Home
+---
+
+<section class="home__recents mb--300">
+  <h1 class="h3 fw-bold">Recent Posts</h1>
+  {% for post in site.posts limit: 3 %}
+  <div class="card mb--200">
+    <div class="recent__title-date mb--100">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: '%m/%d/%Y' }}</p>
+    </div>
+    <p>{{ post.excerpt | truncatewords: 30 | strip_html }}</p>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="mb--300">
+  <h1 class="h3 fw-bold">Books</h1>
+  <p>
+    Some of the books I've read. The title links to that book's review (assuming
+    I reviewed that specific book). Only books rated 5/5 are listed here &mdash;
+    <a href="/projects/books">see the full list here.</a>
+  </p>
+  <table class="mt--100">
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+    </tr>
+    {% for book in site.data.books reversed %} {% if book.rating == 5 %}
+    <tr>
+      <td>
+        <em>
+          {% if book.review == null %} {{ book.title }} {% else %}
+          <a href="{{ book.review }}">{{ book.title }}</a>
+          {% endif %}
+        </em>
+      </td>
+      <td>{{ book.author }}</td>
+    </tr>
+    {% endif %} {% endfor %}
+  </table>
+</section>
+
+<section class="mb--300">
+  <h1 class="h3 fw-bold">Poems</h1>
+  <p class="mb--100">
+    Some poems I've written.
+    <a href="/projects/poems">See all of my poems here.</a>
+  </p>
+  <ul>
+    {% for poem in site.poems limit:5 %}
+    <li>
+      <a href="{{ poem.url }}">{{ poem.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h1 class="h3 fw-bold">Memento Poetica</h1>
+  <p class="mb--100">
+    A collection of my favorite poetry.
+    <a href="/projects/mempoe">See all of my favorite poems here.</a>
+  </p>
+  <ul>
+    {% for poem in site.mempoe limit:5 %}
+    <li>
+      <a href="{{ poem.url }}">{{ poem.title }} &mdash; {{ poem.author }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

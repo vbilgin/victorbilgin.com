@@ -1,0 +1,125 @@
+body {
+  // Default light color theme
+  background-color: var(--clr-primary);
+  color: var(--clr-secondary);
+
+  font-size: var(--fs-base);
+  font-family: var(--ff-primary);
+
+  padding: 0 16px;
+}
+
+main {
+  // Add a margin to bottom of all mains
+  // to provide spacing before footer
+  margin-bottom: var(--size-300);
+}
+
+// Set built-in headings to match mixins
+h1 {
+  @include f-h1;
+}
+h2 {
+  @include f-h2;
+}
+h3 {
+  @include f-h3;
+}
+h4 {
+  @include f-h4;
+}
+h5 {
+  @include f-h5;
+}
+
+a {
+  // Set defualt color of links
+  // based on light color theme
+  color: var(--clr-accent);
+}
+
+p {
+  // Set default line height
+  // of all paragraphs
+  line-height: 1.8;
+
+  code {
+    @include code-in-text;
+  }
+}
+
+strong {
+  // Make strong bold
+  font-weight: var(--fw-bold);
+}
+
+em {
+  // Make em italic
+  font-style: var(--fs-italic);
+}
+
+table {
+  // Set defaults for all tables
+
+  // No border-spacing
+  border-collapse: collapse;
+
+  width: 100%;
+
+  // Default light theme
+  color: var(--clr-secondary);
+  background-color: var(--clr-primary);
+
+  // Default spacing after all tables
+  margin-bottom: var(--size-100);
+
+  td,
+  th {
+    text-align: left;
+    padding: 0.5rem;
+    line-height: 1.8;
+  }
+
+  th {
+    // Make headers bold
+    font-weight: var(--fw-bold);
+  }
+
+  tr:nth-child(even) {
+    // Default light theme accent
+    // for all even rows
+    background-color: var(--clr-tbl-accent);
+  }
+}
+
+ul,
+ol {
+  padding-left: var(--size-200);
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.85rem;
+  color: var(--clr-secondary);
+  line-height: 1.8;
+
+  code {
+    @include code-in-text;
+  }
+}
+
+li::marker {
+  color: var(--clr-secondary);
+}
+
+code,
+pre {
+  border-radius: 3px;
+  font-family: var(--ff-mono);
+}
+
+hr {
+  background-color: var(--clr-secondary);
+  border: none;
+  height: 5px;
+}

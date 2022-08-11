@@ -1,0 +1,18 @@
+---
+layout: base
+title: Blog
+permalink: /blog
+---
+
+<h1 class="page-title">Blog</h1>
+
+<table>
+  {% for post in site.posts %}
+  <tr>
+    <td>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </td>
+    <td>{{ post.date | date: '%m/%d/%Y' }}</td>
+  </tr>
+  {% endfor %}
+</table>

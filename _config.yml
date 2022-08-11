@@ -1,0 +1,29 @@
+url: "https://www.victorbilgin.com"
+baseurl: ""
+title: "Victor Bilgin"
+description: "The personal site of Victor Bilgin"
+author: "Victor Bilgin"
+
+email: hello@victorbilgin.com
+
+include:
+  - _pages
+  - _projects
+
+collections:
+  books:
+    output: true
+  media:
+    output: true
+  poems:
+    output: true
+  mempoe:
+    output: true
+
+markdown: kramdown
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+highlighter: rouge

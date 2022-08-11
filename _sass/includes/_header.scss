@@ -1,0 +1,42 @@
+.header {
+  padding: var(--size-200) 0 var(--size-300) 0;
+  position: sticky;
+  top: 0;
+  background: var(--bg-gradient);
+}
+
+.header__email {
+  text-decoration: none;
+  color: var(--clr-secondary);
+  transition: display 0.1s;
+}
+
+.header__email:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--clr-secondary);
+}
+
+.header__nav {
+  transition: margin-top 0.1s;
+}
+
+.nav__list {
+  list-style: none;
+  gap: var(--size-200);
+  align-items: center;
+  padding: 0;
+
+  li {
+    margin: 0;
+  }
+}
+
+.header-scrolled {
+  .header__email {
+    display: none;
+  }
+
+  .header__nav {
+    margin-top: 0;
+  }
+}

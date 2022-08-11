@@ -1,0 +1,26 @@
+---
+layout: post
+title: Books
+permalink: /projects/books
+---
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th class="text-align-right">Rating</th>
+  </tr>
+  {% for book in site.data.books reversed %}
+  <tr>
+    <td>
+      <em>
+        {% if book.review == null %} {{ book.title }} {% else %}
+        <a href="{{ book.review }}">{{ book.title }}</a>
+        {% endif %}
+      </em>
+    </td>
+    <td>{{ book.author }}</td>
+    <td class="text-align-right fw-bold">{{ book.rating }}/5</td>
+  </tr>
+  {% endfor %}
+</table>

@@ -1,0 +1,22 @@
+.poem__article {
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+      p {
+        margin-bottom: var(--size-200);
+      }
+    }
+  }
+}
+
+.poem__title {
+  @include f-title($margin: 0 0 1rem 0);
+}
+
+.poem__author {
+  @include f-h5($margin: 1rem 0 var(--size-200));
+}

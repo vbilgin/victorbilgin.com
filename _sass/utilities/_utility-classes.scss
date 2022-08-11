@@ -1,0 +1,113 @@
+.dark-mode {
+  // COLORS
+  --clr-primary: #1b1b1e;
+  --clr-secondary: #fcfffc;
+
+  --clr-accent: #ffa62b;
+
+  --clr-tbl-accent: #3a3a3a;
+
+  --bg-gradient: linear-gradient(
+    0deg,
+    rgba(252, 255, 252, 0) 0%,
+    rgba(27, 27, 30, 1) 50%,
+    rgba(27, 27, 30, 1) 100%
+  );
+}
+
+.color-toggle {
+  cursor: pointer;
+}
+
+// LAYOUT
+.flex {
+  display: flex;
+}
+
+// TYPE
+.page-title {
+  @include f-title;
+}
+
+.h1 {
+  @include f-h1;
+}
+.h2 {
+  @include f-h2;
+}
+.h3 {
+  @include f-h3;
+}
+.h4 {
+  @include f-h4;
+}
+.h5 {
+  @include f-h5;
+}
+
+.fw-bold {
+  font-weight: var(--fw-bold);
+}
+
+.fs-italic {
+  font-style: var(--fs-italic);
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+// MARGIN TOP
+.mt--100 {
+  margin-top: var(--size-100);
+}
+
+// MARGIN BOTTOM
+.mb--300 {
+  margin-bottom: var(--size-300);
+}
+
+.mb--200 {
+  margin-bottom: var(--size-200);
+}
+
+.mb--100 {
+  margin-bottom: var(--size-100);
+}
+
+// PADDING BOTTOM
+.pb--300 {
+  padding-bottom: var(--size-300);
+}
+
+.pb--200 {
+  padding-bottom: var(--size-200);
+}
+
+.pb--100 {
+  padding-bottom: var(--size-100);
+}
+
+// LISTS
+.literary-list {
+  margin-top: var(--size-100);
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    margin-bottom: var(--size-100);
+    font-style: var(--fs-italic);
+    line-height: 1.5;
+  }
+
+  :last-child {
+    margin-bottom: 0;
+  }
+}
+
+// CARD ELEMENT
+.card {
+  background: var(--clr-tbl-accent);
+  padding: var(--size-100);
+  border-radius: 8px;
+}

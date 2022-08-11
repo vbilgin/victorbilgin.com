@@ -1,0 +1,16 @@
+.home__recents {
+  h1 {
+    margin-top: 0;
+  }
+}
+
+.recent__title-date {
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  h2 {
+    @include f-h4($margin: 0);
+    font-weight: var(--fw-regular);
+    line-height: 1.5;
+  }
+}

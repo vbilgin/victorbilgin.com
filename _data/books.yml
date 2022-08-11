@@ -1,0 +1,140 @@
+- title: "Steve Jobs"
+  author: "Walter Isaacson"
+  rating: 4
+  review:
+
+- title: "Bad Blood"
+  author: "John Carreyrou"
+  rating: 3
+  review:
+
+- title: "Hatching Twitter"
+  author: "Nick Bilton"
+  rating: 3
+  review:
+
+- title: "Before the Fall"
+  author: "Noah Hawley"
+  rating: 1
+  review:
+
+- title: "Shoe Dog"
+  author: "Phil Knight"
+  rating: 5
+  review:
+
+- title: "Story"
+  author: "Robert McKee"
+  rating: 4
+  review:
+
+- title: "Now You See It and Other Essays on Design"
+  author: "Michael Bierut"
+  rating: 2
+  review:
+
+- title: "How To"
+  author: "Michael Bierut"
+  rating: 4
+  review:
+
+- title: "A Guide to the Good Life"
+  author: "Michael B. Irvine"
+  rating: 5
+  review:
+
+- title: "The War of Art"
+  author: "Steven Pressfield"
+  rating: 2
+  review:
+
+- title: "On Writing"
+  author: "Stephen King"
+  state: read
+  rating: 5
+  review:
+
+- title: "The Stranger"
+  author: "Albert Camus"
+  rating: 5
+  review:
+
+- title: "When Breath Becomes Air"
+  author: "Paul Kalanithi"
+  rating: 4
+  review:
+
+- title: "A Short History of Nearly Everything"
+  author: "Bill Bryson"
+  rating: 5
+  review: /projects/books/short-history-nearly-everything
+
+- title: "Just My Type"
+  author: "Simon Garfield"
+  rating: 1
+  review:
+
+- title: "Permanent Record"
+  author: "Edward Snowden"
+  rating: 5
+  review: /projects/books/permanent-record
+
+- title: "American Kingpin"
+  author: "Nick Bilton"
+  rating: 3
+  review: /projects/books/american-kingpin
+
+- title: "This is Going to Hurt"
+  author: "Adam Kay"
+  rating: 5
+  review: /projects/books/this-is-going-to-hurt
+
+- title: "How the Internet Happened"
+  author: "Brian McCullough"
+  rating: 4
+  review: /projects/books/how-the-internet-happened
+
+- title: "Exhalation"
+  author: "Ted Chiang"
+  rating: 4
+  review:
+
+- title: "Facebook"
+  author: "Steven Levy"
+  rating: 4
+  review: /projects/books/facebook
+
+- title: "The Mom Test"
+  author: "Rob Fitzpatrick"
+  rating: 5
+  review: /projects/books/the-mom-test
+
+- title: "No Filter"
+  author: "Sarah Frier"
+  rating: 4
+  review:
+
+- title: "Kitchen Confidential"
+  author: "Anthony Bourdain"
+  rating: 5
+  review: /projects/books/kitchen-confidential
+
+- title: "Women Don't Owe You Pretty"
+  author: "Florence Given"
+  rating: 2
+  review: /projects/books/women-dont-owe-you-pretty
+
+- title: "The Power of Zero"
+  author: "David McKnight"
+  rating: 4
+  review: /projects/books/power-of-zero
+
+- author: Ernest Hemingway
+  rating: 3
+  review: /projects/books/the-sun-also-rises
+  title: The Sun Also Rises
+
+- author: Andy Weir
+  rating: 4
+  review: /projects/books/project-hail-mary
+  title: Project Hail Mary
