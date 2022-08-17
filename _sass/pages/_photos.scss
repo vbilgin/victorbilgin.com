@@ -1,0 +1,7 @@
+.photo {
+  margin-bottom: var(--size-200);
+
+  :last-child {
+    margin-bottom: 0;
+  }
+}

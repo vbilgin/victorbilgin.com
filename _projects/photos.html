@@ -1,0 +1,9 @@
+---
+layout: post
+title: Photos
+permalink: /projects/photos
+---
+
+{% for photo in site.data.photos %}
+<img class="photo" src="{{ photo.link }}" alt="{{ photo.title }}" />
+{% endfor %}
