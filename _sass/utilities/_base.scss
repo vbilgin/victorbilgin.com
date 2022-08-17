@@ -1,5 +1,4 @@
 body {
-  // Default light color theme
   background-color: var(--clr-primary);
   color: var(--clr-secondary);
 
@@ -33,8 +32,6 @@ h5 {
 }
 
 a {
-  // Set defualt color of links
-  // based on light color theme
   color: var(--clr-accent);
 }
 
@@ -66,7 +63,6 @@ table {
 
   width: 100%;
 
-  // Default light theme
   color: var(--clr-secondary);
   background-color: var(--clr-primary);
 
@@ -86,8 +82,6 @@ table {
   }
 
   tr:nth-child(even) {
-    // Default light theme accent
-    // for all even rows
     background-color: var(--clr-tbl-accent);
   }
 }
