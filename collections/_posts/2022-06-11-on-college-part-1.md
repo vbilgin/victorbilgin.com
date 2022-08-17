@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On College (Part 1) and Some More Stuff Too"
+title: On College (Part 1)
 permalink: /blog/on-college-part-1
 tags: post
 ---
