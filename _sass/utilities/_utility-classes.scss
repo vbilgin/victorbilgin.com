@@ -50,7 +50,7 @@
 }
 
 .fs-italic {
-  font-style: var(--fs-italic);
+  font-style: italic;
 }
 
 .text-align-right {
@@ -96,7 +96,7 @@
 
   li {
     margin-bottom: var(--size-100);
-    font-style: var(--fs-italic);
+    font-style: italic;
     line-height: 1.5;
   }
 
