@@ -5,6 +5,6 @@ layout: base
 <article class="post__article">
   <h1 class="post__title page-title">{{ page.title }}</h1>
   {% if page.tags contains "post" %}
-  <p class="mb--200 fs-italic">{{ page.date | date: '%m/%d/%Y' }}</p>
+  <p class="mb--200">{{ page.date | date: '%m/%d/%Y' }}</p>
   {% endif %} {{ content }}
 </article>
