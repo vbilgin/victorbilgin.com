@@ -4,6 +4,7 @@ title: "This Be The Verse"
 author: Philip Larkin
 is-original: false
 permalink: /projects/mempoe/this-be-the-verse-philip-larkin
+tags: poem
 ---
 
 - They fuck you up, your mum and dad.

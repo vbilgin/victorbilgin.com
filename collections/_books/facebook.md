@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>Facebook</em> by Steven Levy"
+book-title: Facebook
+book-author: Steven Levy
 permalink: /projects/books/facebook
-tags: review book-review
+tags: book-review
 ---
 
 I enjoyed this book and would recommend it if you're looking for any of the below:

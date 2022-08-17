@@ -1,8 +1,10 @@
 ---
 layout: post
 title: <em>The Sun Also Rises</em> by Ernest Hemingway
+book-title: The Sun Also Rises
+book-author: Ernest Hemingway
 permalink: /projects/books/the-sun-also-rises
-tags: review book-review
+tags: book-review
 ---
 
 I don't typically review fiction since I find it difficult to put into words how I feel about it. With non-fiction it's usually just a matter of explaining whether or not the information in the book was worth the time investment and whether or not the prose was good. With fiction there is of course the question of whether or not the prose was good (it was, in this case) but after that's sorted, how am I meant to decide if it was worth it? That's the tricky part but I'll give it a go.

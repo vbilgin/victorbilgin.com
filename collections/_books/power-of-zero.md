@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>The Power of Zero</em> by David McKnight"
+book-title: The Power of Zero
+book-author: David McKnight
 permalink: /projects/books/power-of-zero
-tags: review book-review
+tags: book-review
 ---
 
 Short and sweet. This book opened my eyes to a lot of concepts that I hadn't considered before. It also made me aware of the possibility of not having to pay taxes during my retirement (or at least very little taxes). I'm of the opinion (as is the author) that taxes will eventually reach very high levels so I think the methods and tips in this book could prove invaluable in the future. I'm happy to have read it at 23 instead of 43.

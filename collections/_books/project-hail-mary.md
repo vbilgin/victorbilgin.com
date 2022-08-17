@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>Project Hail Mary</em> by Andy Weir"
+book-title: Project Hail Mary
+book-author: Andy Weir
 permalink: /projects/books/project-hail-mary
-tags: review book-review
+tags: book-review
 ---
 
 This was a really fun read. Definitely get it as an audiobook if possible. The narration by Ray Porter was really something else; you could hear that he loved reading this and really took the time to understand the characters. Plus, all of his different accents were hilarious.

@@ -4,6 +4,7 @@ title: "O Me! O Life!"
 author: Walt Whitman
 is-original: false
 permalink: /projects/mempoe/o-me-o-life-whitman
+tags: poem
 ---
 
 - Oh me! Oh life! of the questions of these recurring,

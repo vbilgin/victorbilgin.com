@@ -4,6 +4,7 @@ title: "O Captain! My Captain!"
 author: Walt Whitman
 is-original: false
 permalink: /projects/mempoe/o-captain-whitman
+tags: poem
 ---
 
 - O Captain! my Captain! our fearful trip is done;

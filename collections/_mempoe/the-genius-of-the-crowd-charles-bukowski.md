@@ -4,6 +4,7 @@ title: "The Genius of the Crowd"
 author: Charles Bukowski
 is-original: false
 permalink: /projects/mempoe/the-genius-of-the-crowd-bukowski
+tags: poem
 ---
 
 - There is enough treachery, hatred violence absurdity in the average

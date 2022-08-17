@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "<em>American Kingpin</em> by Nick Bilton"
+book-title: American Kingpin
+book-author: Nick Bilton
 permalink: /projects/books/american-kingpin
 tags: book-review
 ---

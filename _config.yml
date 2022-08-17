@@ -10,10 +10,10 @@ include:
   - _pages
   - _projects
 
+collections_dir: collections
+
 collections:
   books:
-    output: true
-  media:
     output: true
   poems:
     output: true

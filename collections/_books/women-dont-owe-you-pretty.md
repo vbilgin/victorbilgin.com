@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>Women Don't Owe You Pretty</em> by Florence Given"
+book-title: Women Don't Owe You Pretty
+book-author: Florence Given
 permalink: /projects/books/women-dont-owe-you-pretty
-tags: review book-review
+tags: book-review
 ---
 
 Admittedly, this isn't a book I was expecting to read. Nor was it on my radar at all. I was hanging out with a friend and asked, "What's your favorite book?" She handed me this, filled with Post-It notes and with a worn front and back cover. I really appreciated that and committed to reading this with an open mind. That was necessary because, as you can imagine, I'm not the target audience for a book like this.

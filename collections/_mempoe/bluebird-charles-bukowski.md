@@ -4,6 +4,7 @@ title: Bluebird
 author: Charles Bukowski
 is-original: false
 permalink: /projects/mempoe/bluebird-charles-bukowski
+tags: poem
 ---
 
 - there's a bluebird in my heart that

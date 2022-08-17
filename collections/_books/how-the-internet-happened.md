@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>How the Internet Happened</em> by Brian McCullough"
+book-title: How the Internet Happened
+book-author: Brian McCullough
 permalink: /projects/books/how-the-internet-happened
-tags: review book-review
+tags: book-review
 ---
 
 I really enjoyed this book but let's get something out of the way: the title is incredibly misleading. Upon seeing it, you might assume this book is a technical history of how the internet came to be. This is not that. But McCullough still provides a rich history of the world the internet ushered in: startups, Silicon Valley, and the Dot-com boom/bust.

@@ -4,6 +4,7 @@ title: The Bridge
 author: Henry Wadsworth Longfellow
 is-original: false
 permalink: /projects/mempoe/the-bridge-longfellow
+tags: poem
 ---
 
 - I stood on the bridge at midnight,

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "<em>A Short History of Nearly Everything</em> by Bill Bryson"
+book-title: A Short History of Nearly Everything
+book-author: Bill Bryson
 permalink: /projects/books/short-history-nearly-everything
 tags: book-review
 ---

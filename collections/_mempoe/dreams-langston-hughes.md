@@ -4,6 +4,7 @@ title: Dreams
 author: Langston Hughes
 is-original: false
 permalink: /projects/mempoe/dreams-langston-hughes
+tags: poem
 ---
 
 - Hold fast to dreams

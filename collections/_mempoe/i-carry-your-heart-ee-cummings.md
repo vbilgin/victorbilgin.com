@@ -4,6 +4,7 @@ title: "[i carry your heart with me(i carry it in]"
 author: E.E. Cummings
 is-original: false
 permalink: /projects/mempoe/i-carry-your-heart-ee-cummings
+tags: poem
 ---
 
 - i carry your heart with me(i carry it in

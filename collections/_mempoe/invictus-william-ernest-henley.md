@@ -4,6 +4,7 @@ title: Invictus
 author: William Ernest Henley
 is-original: false
 permalink: /projects/mempoe/invictus-henley
+tags: poem
 ---
 
 - Out of the night that covers me,

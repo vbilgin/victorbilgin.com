@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "<em>Kitchen Confidential</em> by Anthony Bourdain"
+book-title: Kitech Confidential
+book-author: Anthony Bourdain
 permalink: /projects/books/kitchen-confidential
-tags: review book-review
+tags: book-review
 ---
 
 What a fun read! And it's made all the better by Bourdain being the narrator for the audiobook.
