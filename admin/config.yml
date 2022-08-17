@@ -6,11 +6,47 @@ media_folder: "assets/img/uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog Posts" # Used in the UI
+    label: "Blog" # Used in the UI
     folder: "collections/_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Permalink",
+          name: "permalink",
+          widget: "string",
+          default: "/blog/{{slug}}",
+        }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "original-poems"
+    label: "Original Poem"
+    folder: "collections/_poems"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "poem" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["poem"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "mempoe-poems"
+    label: "MemPoe Poem"
+    folder: "collections/_mempoe"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "poem" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["poem"] }
+      - {
+          label: "Original?",
+          name: "is-original",
+          default: false,
+          widget: "hidden",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
