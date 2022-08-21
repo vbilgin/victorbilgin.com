@@ -1,7 +1,7 @@
 ---
 layout: post
-title: On College (Part 1)
-permalink: /blog/on-college-part-1
+title: On College (Part I)
+permalink: /blog/on-college-part-i
 tags: post
 ---
 
@@ -9,23 +9,11 @@ tags: post
 
 My first experience with college was when I arrived in Delaware, Ohio in August of 2016. I’d graduated high school with a subpar GPA and wanted to go somewhere far from home and throw myself into the thick of it. Up until that point, I’d never spent more than a week away from my parents. I knew that eventually I would have to break away and live on my own so going to Ohio was my way of biting the bullet. Ohio Wesleyan University was where I was due to start my post-high school life – my adult life.
 
-## Heading 2
-
-To set the scene, OWU (and Ohio in general) was a stark departure from my life in Los Angeles, CA. The university was a very small private liberal arts school in the heart of a tiny town thirty minutes from Columbus. OWU had only a few hundred more students than my high school. Delaware was a primarily conservative town that paled in size compared to Los Angeles. I was in a completely different world. It wasn’t exactly `console.log("Hello world!");` a world I liked much, but I wasn’t surprised; I had done my research and knew what I was getting into.
-
-```js
-console.log("Hello world!");
-```
-
-### Heading 3
+To set the scene, OWU (and Ohio in general) was a stark departure from my life in Los Angeles, CA. The university was a very small private liberal arts school in the heart of a tiny town thirty minutes from Columbus. OWU had only a few hundred more students than my high school. Delaware was a primarily conservative town that paled in size compared to Los Angeles. I was in a completely different world. It wasn’t exactly a world I liked much, but I wasn’t surprised; I had done my research and knew what I was getting into.
 
 Fast forward two years and I was home for summer vacation before the beginning of my junior year. I had excelled academically, made wonderful friends, joined a fraternity, and was on track to graduate with a degree in business administration. Unfortunately, I was also $30,000 in debt because of student loans. It was a daunting number made even more so because I wholly expected it to double by the end of my college career. And what about an MBA after I graduated? It certainly made sense, but financially it was a terrifying consideration. Needless to say, I was concerned about my financial future like so many college students of my generation are.
 
-#### Heading 4
-
 I was also becoming disillusioned with my chosen major and the career path it was tailored to. The choice to study business was not a quick one. I bounced between different options like computer science, history, political science, and accounting. They all interested me in some capacity but I made what I believed to be the logical decision to study business because of one reason: I wanted to be an entrepreneur. Even in the early days of my freshman year, I was trying hard to find a business idea that I could bring to life. So many ideas were floating around in my head and none ever saw the light of day. As most aspiring entrepreneurs will tell you, the hardest part of starting a business is starting. Regardless, even as I junked idea after idea, I consumed content about business, startups, and entrepreneurship like crazy. YouTube videos, books, various courses, everything I could get my hands on. Throughout my two years at OWU, I came to the conclusion that to create a business that would change the world, I needed to think outside the box. (My views on this have changed considerably since then, but that’s a topic for a different day.)
-
-##### Heading 5
 
 As I was developing my own business philosophy, I began looking at my classes as stagnant, uninteresting, and sometimes downright useless. The further I got into the higher-level courses for my major, the more I felt like I was wasting my time. This certainly wasn’t helped by the fact that I’d chosen the marketing concentration within the business administration major. After all, marketing was a core facet of business and something I was less than good at. But marketing began to seem like a discombobulated mess of opinions and luck. There is, of course, the psychological side of marketing, but that side tended to be talked about in passing and often used as an ex post facto justification for why a certain campaign worked. It looked to me like a mess.
 

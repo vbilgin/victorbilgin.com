@@ -1,14 +1,16 @@
 .header {
-  padding: var(--size-200) 0 var(--size-300) 0;
+  padding: var(--size-100) 0 var(--size-100) 0;
   position: sticky;
   top: 0;
-  background: var(--bg-gradient);
+  background: var(--clr-primary);
+  transition: border-bottom 0.1s;
 }
 
 .header__email {
   text-decoration: none;
   color: var(--clr-secondary);
-  transition: display 0.1s;
+  transition: display 0.25s;
+  position: relative;
 }
 
 .header__email:hover {
@@ -25,6 +27,7 @@
   gap: var(--size-200);
   align-items: center;
   padding: 0;
+  margin: 0;
 
   li {
     margin: 0;
@@ -32,6 +35,8 @@
 }
 
 .header-scrolled {
+  border-bottom: 5px solid var(--clr-accent);
+
   .header__email {
     display: none;
   }

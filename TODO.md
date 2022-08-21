@@ -1,0 +1,2 @@
+- Finalize nav bar scroll design
+- Finalize README
