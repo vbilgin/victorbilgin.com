@@ -4,6 +4,6 @@ title: Photos
 permalink: /projects/photos
 ---
 
-{% for photo in site.data.photos %}
+{% for photo in site.data.photos reversed %}
 <img class="photo" src="{{ photo.link }}" alt="{{ photo.title }}" />
 {% endfor %}
