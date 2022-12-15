@@ -14,3 +14,17 @@
     line-height: 1.5;
   }
 }
+
+.home__cta {
+  background: var(--clr-accent);
+  padding: var(--size-100);
+  border-radius: 8px;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  form {
+    color: var(--clr-primary)
+  }
+}
