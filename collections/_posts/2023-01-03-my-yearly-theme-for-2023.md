@@ -1,0 +1,40 @@
+---
+layout: post
+title: My Yearly Theme for 2023
+permalink: /blog/2023-yearly-theme
+tags:
+  - post
+---
+For the past two years, I've published blog posts on this site that outline my goals for the new year (2021 and 2022). And in neither case did I actually achieve any of the goals I set for myself. That's probably a very common result for most people. Goals, resolutions, whatever you call them - if you create a finish line in the frenzy of the last 2 weeks of December, you seem almost guaranteed not to cross it. So this time I'd like to take a different approach based on that of the [Cortex podcast](https://www.relay.fm/cortex) hosts: themes.
+
+Based on my own interpretation, a yearly theme is a guide for the next 365 days of your life; a compass that you can use to remind yourself of what you want to do or be by the time the next year rolls around. A theme doesn't include a specific empirical goal like "read 12 books" or "run a marathon," instead it provides a general focus that you can look to during the year as a reminder. I like this approach and I'd like to try applying it to my own life for 2023.
+
+So, I've decided that my theme for 2023 will be: **personal growth**.
+
+I know, it sounds like a very abstract theme to choose but that's by design. Notice that I said "personal" growth. That's because I want 2023 to be a year where I improve on my own shortcomings as they relate to my mental health, my physical health, and my general outlook on life. 2022 was certainly a great year for me professionally and I feel like I've settled into a nice rhythm at work. I'll ride that wave in 2023 but my professional development won't be a focus (unless it needs to be).
+
+Let's make this theme less abstract by talking about what specifically I'd like to work on.
+
+## Saying "No"
+After lockdown ended and LA started opening up again, I felt this intense desire to say yes to pretty much everything that came my way. Friends want to hang out? Yes. A side gig to bring in some extra money? Sure. Take a trip even though I can't really afford it? Count me in.
+
+It's not to say that being a yes-man ruined my life. In a lot of ways, I'm a better person because I spent the last ~2 years saying yes. But being a yes-man also made it very difficult for me to say no when I needed to. There were a lot of late nights out before work and a lot of money spent on frivolous things. Saying yes is great but sometimes saying no is what you need to do. As I inch closer to 30, I realized that being a yes-man will eventually lead to a very difficult life.
+
+So in 2023 I want to say no more often and prioritize my life in a way where new experiences aren't absent but where they aren't my primary goal day-to-day either.
+
+## Cooking
+I've wanted to become better at cooking for a long time. Ever since I dropped out of OWU in 2018, I realized that being able to cook a good meal for yourself and the people you care about is an incredibly powerful skill. Not to mention the fact that it's cheaper than dining out and (usually) healthier.
+
+I've already taken some steps to get better: bought cookbooks and some much-needed kitchen tools, began experimenting with recipes I know, and began trying new recipes and ingredients.
+
+In 2023, I want to take this to the next level and really understand the science and art behind creating good food.
+
+## Drinking
+I written about drinking before on this blog and it's something I've thought about a lot over the past 4-5 years. The conclusion I've come to is that I use drinking as a crutch and a therapy of sorts. You don't need to be a psychologist to know that using drinking in this way isn't good for your mental or physical health. I understand that but I haven't done enough to change how I use alcohol. In 2023, I want to make a concerted effort to do so.
+
+I'm not going to set specific goals like "don't drink for 30 days" but as part of my theme of personal growth, I want to always keep in mind why I'm drinking and what I feel afterward. Hangovers used to be times when I'd relax and let the day slip away because that's just how it had to be. Recently, I've started looking at them as the true effect of drinking, not a side effect.
+
+## The General Mentality
+In 2023 I want to focus on myself and prioritize the things that are truly important and will have lasting benefits. That doesn't mean becoming a hermit who doesn't have fun, it means learning more about myself, taking conscious steps toward who I want to be, and enjoying every moment of this crazy life.
+
+With any luck, my 2023 retrospective will confirm that I've made at least some progress in these areas. Good luck to everyone with their goals and Happy New Year!
