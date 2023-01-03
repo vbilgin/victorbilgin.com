@@ -143,3 +143,8 @@
   rating: 4
   review: /projects/books/digital-gold
   title: Digital Gold
+
+- author: Paulo Coelho
+  rating: 3
+  review: /projects/books/the-alchemist
+  title: The Alchemist
