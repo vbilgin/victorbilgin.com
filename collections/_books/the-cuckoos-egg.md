@@ -3,7 +3,7 @@ layout: post
 title: "<em>The Cuckoo's Egg</em> by Cliff Stoll"
 book-title: The Cuckoo's Egg
 book-author: Cliff Stoll
-permalink: /projects/books/the-cuckoo's egg
+permalink: /projects/books/the-cuckoos-egg
 tags: book-review
 ---
 
