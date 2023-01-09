@@ -64,6 +64,11 @@
   rating: 4
   review:
 
+- title: "The Cuckoo's Egg"
+  author: "Cliff Stoll"
+  rating: 4
+  review: /projects/books/the-cuckoos-egg
+
 - title: "A Short History of Nearly Everything"
   author: "Bill Bryson"
   rating: 5
@@ -148,3 +153,8 @@
   rating: 3
   review: /projects/books/the-alchemist
   title: The Alchemist
+
+- author: Blake Crouch
+  rating: 2
+  review: /projects/books/dark-matter
+  title: Dark Matter
