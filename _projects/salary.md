@@ -4,8 +4,6 @@ title: Salary
 permalink: /projects/salary
 ---
 
-**Note:** I'm not listing the employers because some employers consider this confidential information.
-
 | Title               | Time in Position | Salary  |
 | ------------------- | ---------------- | ------- |
 | Service Coordinator | 1 year, 2 months | $31,200 |
