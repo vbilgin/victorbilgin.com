@@ -9,7 +9,7 @@ title: Home
   <div class="card mb--200">
     <div class="recent__title-date mb--100">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date: '%m/%d/%Y' }}</p>
+      <p>{{ post.date | date: '%B %d, %Y' }}</p>
     </div>
     <p>{{ post.excerpt | truncatewords: 30 | strip_html }}</p>
   </div>
