@@ -27,3 +27,9 @@ sass:
   sass_dir: _sass
 
 highlighter: rouge
+
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
+  - README.md
+  - docs/
